@@ -1,6 +1,6 @@
 # Rename Multiple Files
 
-A simple Python script to rename all the files (could be thousands) in a directory in a desired format. This will solve the problem if somebody is required to rename thousands of files.  
+A simple Python script to rename thousands of files in a directory in a desired format, suffixed by the desired extension type. 
 
 ## Getting Started
 
